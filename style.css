@@ -23,7 +23,7 @@ body {
 
 .row{
     display: flex;
-    grid-template-rows: 1fr 1fr 2fr;
+/*     grid-template-rows: 1fr 1fr 2fr; */
 }
 
 #input{
